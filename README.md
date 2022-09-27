@@ -1,2 +1,2 @@
 # HELLO-WORLD
-My first repository in Gthub
+My first repository in GIthub
